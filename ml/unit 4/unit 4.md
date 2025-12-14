@@ -1,0 +1,16 @@
+
+- variant of svm
+- support vector regression
+- ensemble learning - bagging vs boosting , simple and advanced
+- macro avg precision,recall , average F-score for confusion matrix of multi class classification
+- random forest and adaboost
+- k-nearest neighbour - adv&disadv , distance metrics,
+- outlier handling methods
+- kernel methods suitable for svm - separating hyperplane,margin
+- multiclass classification - methods as well
+- binary vs multiclass classification
+- random forest
+- confusion matrix importance
+- precision and recall  
+- k-fold cross validation
+- 

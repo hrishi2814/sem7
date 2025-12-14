@@ -1,0 +1,10 @@
+- ethereum, features - mainnet testnet and private networks
+- whisper
+- smart contracts in ethereum
+- ethereum virtual machine
+- swarm
+- smart contract
+- decentralized messaging platforms list 
+- explain solidity
+- smart contract using solidity
+- 

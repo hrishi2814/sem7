@@ -1,0 +1,13 @@
+- k medoid
+- density based clustering
+- k-means numerical
+- isolation factor model
+- hierarchical clustering 
+- micro average precision recall f1 score
+- outlier analysis - local outlier factor
+- spectral cluster 
+- agglomerative dendogram
+- LOF - adv disadv
+- graph based clustering 
+- elbow method, extrinsic and intrinsic method
+- 

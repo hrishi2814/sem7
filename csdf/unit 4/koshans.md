@@ -1,0 +1,8 @@
+- computer evidence processing steps
+- collecting and storing digital evidence
+- chain custody
+- contamination of digital evidence
+- volatile evidence
+- hypical steps
+- verification and auth of computer images
+- duplication and preservation of digital evidence

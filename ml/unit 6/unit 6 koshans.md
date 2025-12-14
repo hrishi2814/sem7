@@ -1,0 +1,17 @@
+- building blocks of neural networks
+- backpropagation
+- recurrent , convolutional
+- artifical nn based on perceptron
+- multi layer nn
+- different activation functions
+- multilayer perceptron
+- cnn
+- rbf networks
+- personalized recommendation? content based recommendation
+- padding in cnn
+- cnn - convolutional layer, pooling layer, hidden layer
+- ann with arch
+- single layer nn
+- radial basis function networks
+- functional link artifical nn
+- 

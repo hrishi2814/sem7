@@ -1,0 +1,6 @@
+- tools for email forensics
+- computer forensics hardware tools
+- process for validating and testing forensics software
+- function email server 
+- email investigations
+- nist standards for forensic tech

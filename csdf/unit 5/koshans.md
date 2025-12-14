@@ -1,0 +1,11 @@
+- common network tools 
+- seizing digital evidence at a crime 
+- honeypot project
+- different tech to hide data in digital forensics
+- determination of relevant data
+- honeynet project
+- data validation df
+- remote and live acquisitions
+- precautions to prevent data altering
+- network forensics and order of validity 
+- 

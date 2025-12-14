@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "fef8e92b888f69ca",
+    "id": "4a8843fa6b76705c",
     "type": "split",
     "children": [
       {
-        "id": "2ea68ddda44e298d",
+        "id": "f5006c9ec303dc4d",
         "type": "tabs",
         "children": [
           {
-            "id": "ee50856864b9274e",
+            "id": "23499b1f8179cec9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ml.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ml"
-            }
-          },
-          {
-            "id": "f0524e39fdfda648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bt.md",
+                "file": "ml/unit 5/micro average precision recall and score.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bt"
+              "title": "micro average precision recall and score"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bdcb51dfe44d3523",
+    "id": "8ea14b74c66bc90c",
     "type": "split",
     "children": [
       {
-        "id": "aeb9f8d947a19af3",
+        "id": "8b29c3325f29a94e",
         "type": "tabs",
         "children": [
           {
-            "id": "d9122486c25773a9",
+            "id": "3abfbb16a8fa39a4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "a3325cf7b9734115",
+            "id": "fd52c26fb5c3c61e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "69dd4b08a9d6f9f6",
+            "id": "892dd83ec645d008",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "33ee250aa8781684",
+    "id": "127c4d50a0353cab",
     "type": "split",
     "children": [
       {
-        "id": "cdf89bf2f5b33d86",
+        "id": "5210528afbf3af51",
         "type": "tabs",
         "children": [
           {
-            "id": "2c9ce0827bbf65a9",
+            "id": "dba6c4b1434598d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bt"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "0fb4c0dbc74c2730",
+            "id": "797cc460c5906c8e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from bt"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "dec3b9e589f33b99",
+            "id": "a821e1c391eada57",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,18 +135,17 @@
             }
           },
           {
-            "id": "8cf135da75ccf1cd",
+            "id": "39e84fa21584cd21",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "bt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bt"
+              "title": "Outline"
             }
           }
         ]
@@ -184,10 +166,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "f0524e39fdfda648",
+  "active": "23499b1f8179cec9",
   "lastOpenFiles": [
-    "ml.md",
-    "bt.md",
-    "daa.md"
+    "ml/unit 5/spectral clustering.md",
+    "ml/unit 6/unit 6 koshans.md",
+    "ml/unit 5/koshan.md",
+    "ml/unit 5/outlier analysis.md",
+    "ml/unit 5/DBSCAN.md",
+    "ml/unit 5/k-medoid clustering.md",
+    "Pasted image 20251214160649.png",
+    "Pasted image 20251214160144.png",
+    "ml/unit 5/hierarchical clustering.md",
+    "ml/unit 4/Adaboost.md",
+    "ml/unit 4/support vector regression.md",
+    "ml/unit 4/unit 4.md",
+    "ml/unit 4/support vector machine.md",
+    "ml/unit 4/random forest.md",
+    "ml/unit 4/macro metrics.md",
+    "ml/unit 4/k-fold cross validation.md",
+    "ml/unit 4/k-nearest neighbor.md",
+    "ml/unit 4/binary vs multiclass.md",
+    "ml/unit 4/ensemble learning.md",
+    "ml/unit 3/evaluation metrics.md",
+    "ml/unit 3/bias, variance, overfitting and underfitting.md",
+    "ml/unit 3/Tech to reduce underfitting.md",
+    "ml/unit 3/Linear regression.md",
+    "ml/unit 3/Gradient Descent.md",
+    "ml/unit 6/building blocks of nn.md",
+    "ml/unit 3/regression.md",
+    "ml/unit 3/koshans unit 3.md",
+    "ml/unit 3/unit 3.md",
+    "DAA/UNIT5/Aproximate Algo",
+    "DAA/UNIT5/Traceable and Non traceable",
+    "DAA/UNIT5/Embedded Algo",
+    "DAA/UNIT5/Amortized Analysis",
+    "DAA/UNIT5/Randomized Algo",
+    "DAA/UNIT4/Backtracking",
+    "DAA/UNIT4/Branch and bound",
+    "DAA/UNIT3/Greedy",
+    "DAA/UNIT3/Mathematical Formulation",
+    "DAA/UNIT3/Dynamic Programming"
   ]
 }

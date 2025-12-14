@@ -1,0 +1,11 @@
+
+- blockchain in supply chain
+- bt in govt
+- bt + iot
+- applications of bt
+- blockchain integration with platform like cloud
+- bt in energy and utilities
+- bt in health
+- bt in banking and finance
+- cyber hacking can be reduced for digital identity with block chain
+- 
