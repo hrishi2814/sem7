@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bt/unit 5/swarm.md",
+                "file": "bt/unit 6/koshans.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "swarm"
+              "title": "koshans"
             }
           }
         ]
@@ -169,6 +169,8 @@
   "active": "52220512d1eda0e8",
   "lastOpenFiles": [
     "bt/unit 5/koshans.md",
+    "bt/unit 5/solidity.md",
+    "bt/unit 5/decentralized messaging platforms.md",
     "bt/unit 5/swarm.md",
     "bt/unit 5/evm.md",
     "bt/unit 5/smart contracts.md",
@@ -192,8 +194,6 @@
     "bt/unit 3/byzantine general.md",
     "bt/unit 3/Proof of.md",
     "bt/unit 3/bitcoin and hyperledger.md",
-    "bt/unit 3/consensus algorithms.md",
-    "ml/unit 6/ann.md",
     "Pasted image 20251214160649.png",
     "Pasted image 20251214160144.png",
     "DAA/UNIT5/Aproximate Algo",
